@@ -6,7 +6,7 @@
 - materiales: ARDUINO 1, cable USB, Protoboard, 12 cables (4 blancos, 4 naranjos, 2 rojos, 2 azules), perilla, pulsador, 3 luces LED rojas, 2 luces LED verdes, 5 resistores de 220R, 1 resistor de 10k.
 
 - circuito 
-![alt](8.jpg "fotocircuitoxd")
+![alt](8.jpeg "fotocircuitoxd")
 
 
 - código
