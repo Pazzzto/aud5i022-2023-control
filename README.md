@@ -1,12 +1,14 @@
 # aud5i022-2023-control
 
 ## pauta
--Integrantes: Sofia Fuentes Duarte, Katherine Machuca Celis, Javiera Torres Painevilo.
 - punto base
 - asistencia
 - materiales: ARDUINO 1, cable USB, Protoboard, 12 cables (4 blancos, 4 naranjos, 2 rojos, 2 azules), perilla, pulsador, 3 luces LED rojas, 2 luces LED verdes, 5 resistores de 220R, 1 resistor de 10k.
 
-- circuito
+- circuito 
+![alt](8.jpg "fotocircuitoxd")
+
+
 - código
 // Integrantes: Javiera Torres Painevilo, Sofia Fuentes Duarte, Katherine Machuca Celis
 // proyecto : 5 luces LED (roja, verde, roja, verde, roja) que prenden sucesivamente, con una perilla que regula la intensidad lumínica y un pulsador que al ser presionado apaga todas las luces.
@@ -131,13 +133,19 @@ void loop() {
   Serial.println(valorPerilla);
 }
 
-- imágenes
+
+
+
 - conclusiones: fue difícil conectar la primera luz, pero una vez que logramos hacer eso las demás fueron más fáciles. Nos costó conectar el pulsador y la perilla al circuito de las luces, es decir, lograr que interactuarán con las luces. Al principio, algo que se nos dificultó fue la escritura del código y ponerle los nombres a cada cosa y acordarse de qué significaban.
 Mediante este trabajo logramos reforzar los contenidos vistos previamente y los pudimos relacionar unos con otros de forma satisfactoria al final. Logramos desarrollar la idea original que teníamos (un circuito con luces que brillaban en distintos tiempos, y cuya intensidad era regulada mediante la perilla), y a esta idea le añadimos un pulsador y más luces.
 
 inspiracion: Materia vista en clases 3, 4 y 5 (para saber como usar cada componente del circuito tanto de forma análoga como digital), proyectos que vimos de otros compañeros en esta misma clase.
 
 * https://github.com/jibbx/AV-ERDDEL
+
+
+
+imagenes 
 
 ![alt](foto.jpg "foto en clases")
 ![alt](1.jpg "foto en clases")
@@ -157,6 +165,7 @@ Luego de verificar que funcionaba, probamos tambien con la luz verde.
 
 ![alt](7.jpg "foto en clases")
 Añadimos mas luces led al circuito para que fuera más interesante y tambien se agregaron al software (Ver "video2" en carpeta de archivos).
+
 
 
 
