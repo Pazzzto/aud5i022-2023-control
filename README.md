@@ -140,3 +140,23 @@ inspiracion: Materia vista en clases 3, 4 y 5 (para saber como usar cada compone
 * https://github.com/jibbx/AV-ERDDEL
 
 ![alt](foto.jpg "foto en clases")
+![alt](1.jpg "foto en clases")
+Pusimos las cosas base para comenzar a probar (luz led con su resistor, perilla y pulsador)
+
+![alt](3.jpg "foto en clases")
+Empezamos a añadir más cosas. Otra luz led, con cables y resistor de 220R respectivo. Hicimos las conexiones para la perilla y quitamos el pulsador (por ahora).
+
+![alt](4.jpg "foto en clases")
+Pusimos el pulsador nuevamente, le pusimos su cable a los 5V y resistor de 10k
+
+![alt](5.jpg "foto en clases")
+Hicimos la primera prueba subiendo el código al Arduino. Funciona solo una luz por ahora, ya que para la prueba solo usamos esta. (Ver "video1" en carpeta de archivos).
+
+![alt](6.jpg "foto en clases")
+Luego de verificar que funcionaba, probamos tambien con la luz verde.
+
+![alt](7.jpg "foto en clases")
+Añadimos mas luces led al circuito para que fuera más interesante y tambien se agregaron al software (Ver "video2" en carpeta de archivos).
+
+
+
